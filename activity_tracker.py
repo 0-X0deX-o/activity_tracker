@@ -27,17 +27,13 @@ def help():
             exit the application
 
     EXAMPLE TERMINAL OUTPUT
-        [TASK]:Write Log -> 0:00:03.291983 total time
+        2023-03-04 19:23:47.269392 [TASK]:Write Log -> 0:00:03.291983 total time
     
     EXAMPLE LOG OUTPUT
         TASK LOG
-        [TASK]:Task 2 -> 0:00:01.766871 total time
-        [TASK]:Task 3 -> 0:00:02.459259 total time
-        [TASK]:Task 6 -> 0:00:03.003836 total time
-        [TASK]:Task 7 -> 0:00:02.314626 total time
-        [TASK]:Task 8 -> 0:00:02.388613 total time
-        [TASK]:Task 9 -> 0:00:01.744440 total time
-        [TASK]:Task 10 -> 0:00:01.471993 total time
+            2023-03-04 19:23:47.269392 [TASK]:The Task -> 0:00:01.588719 total time
+            2023-03-04 19:24:22.542101 [TASK]:THe Task 2 -> 0:00:02.278416 total time
+            2023-03-04 19:24:30.045630 [TASK]:The Task 3 -> 0:00:01.519349 total time
     '''
 def activity_start():
     return datetime.now()
@@ -51,7 +47,7 @@ def compute_time_spent(start, end):
     return time 
 
 def print_activity_tracker_menu():
-    print(  'Activity Tracker 1.0.0')
+    print(  'Activity Tracker 1.0.1')
     print('Type "help" for more information')
     
 def transition_menu():
@@ -86,7 +82,8 @@ def menu_loop(input_args):
                 print('No Current Task')
                 transition_menu()
             time  = (compute_time_spent(entry[1], now))
-            output_string = f"[TASK]:{entry[0]} -> {time} total time"
+            timestamp = datetime.now()
+            output_string = f"{timestamp} [TASK]:{entry[0]} -> {time} total time"
             print(output_string)
             log_output_string = '\n' + output_string
             with open('tasks.log', 'a') as f:
@@ -107,7 +104,7 @@ def menu_loop(input_args):
             transition_menu()
 
         elif input_args == '-v' or input_args == '--version':
-            print('Activity Tracker 1.0.0')
+            print('Activity Tracker 1.0.1')
             transition_menu()
 
         elif input_args == 'help':
