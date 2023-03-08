@@ -66,3 +66,54 @@ TASK LOG
 2023-03-04 19:23:47.269392[TASK]:The Task -> 0:00:01.588719 total time
 2023-03-04 19:24:22.542101[TASK]:THe Task 2 -> 0:00:02.278416 total time
 2023-03-04 19:24:30.045630[TASK]:The Task 3 -> 0:00:01.519349 total time
+2023-03-04 19:29:35.534540 [TASK]:reconfiguring PC -> 0:00:01.199136 total time
+2023-03-05 01:55:38.632326 [TASK]:Planning Studying for STAT_330 test -> 6:25:27.008623 total time
+2023-03-05 02:23:45.409708 [TASK]:Actually Plannning to study for the exam -> 0:27:48.415346 total time
+2023-03-05 02:24:00.191550 [TASK]:completed first part of study plan -> 0:00:03.819756 total time
+2023-03-05 02:24:11.085671 [TASK]:coffee break -> 0:00:01.450982 total time
+2023-03-05 03:04:38.488945 [TASK]:coffee break -> 0:40:17.348414 total time
+2023-03-05 03:04:50.295837 [TASK]:Began the practice exam -> 0:00:01.273554 total time
+2023-03-05 03:17:07.338124 [TASK]:practice exam question 1 -> 0:12:07.378987 total time
+2023-03-05 03:23:30.300467 [TASK]:practice exam question 2 -> 0:05:59.176158 total time
+2023-03-05 03:35:08.055098 [TASK]:practice exam question 3 -> 0:10:54.839157 total time
+2023-03-05 03:38:20.259995 [TASK]:finished practice exam session 1, answered 3 questions while getting 14/40 questions correct -> 0:00:01.531115 total time
+2023-03-05 06:34:56.892836 [TASK]:transition to solutions and developing strategy for practicing the practice exam -> 2:56:05.705047 total time
+2023-03-05 13:25:22.889790 [TASK]:Studied for about 2/3 of the time, spent the last hour recovering from a terrorist attack -> 6:49:33.323850 total time
+2023-03-05 13:25:40.935361 [TASK]:Failed two planned phases -> 0:00:01.194881 total time
+2023-03-05 13:25:58.086599 [TASK]:completing the first math problem of the day -> 0:00:01.116381 total time
+2023-03-05 14:01:14.438541 [TASK]:completing the first math problem of the day -> 0:35:01.506538 total time
+2023-03-05 18:28:09.800331 [TASK]:Completed Question 2 5 minutes over time constraints -> 4:26:21.777238 total time
+2023-03-05 18:28:43.529023 [TASK]:Completed Phyiscs and Math questions as required -> 0:00:04.054791 total time
+2023-03-05 18:29:02.868901 [TASK]:Began Practice Quiz Try 2 -> 0:00:02.050342 total time
+2023-03-05 18:29:48.701625 [TASK]:Began Practice Quiz Try 2 -> 0:00:27.821097 total time
+2023-03-05 18:34:41.045325 [TASK]:Practice Exam Question 1 -> 0:04:18.584653 total time
+2023-03-05 23:35:46.055916 [TASK]:Practice Exam Question 2 -> 5:00:48.370819 total time
+2023-03-06 06:10:22.087131 [TASK]:More hell -> 6:34:26.602534 total time
+2023-03-06 19:08:12.021932 [TASK]:Arrived Home -> 0:17:47.134276 total time
+2023-03-06 19:35:01.626008 [TASK]:Plan the rest of the day' -> 0:26:37.534384 total time
+2023-03-06 21:51:33.843799 [TASK]:began working on lab5 -> 2:16:23.705527 total time
+2023-03-06 21:51:59.469734 [TASK]:Completed lab5: Checkpoint 1 -> 0:00:01.653124 total time
+2023-03-07 06:34:49.330018 [TASK]:Try and actually complete one of your goals to standard -> 0:00:12.537838 total time
+2023-03-07 10:07:30.855530 [TASK]:Finish Physics Homework -> 3:32:30.770724 total time
+2023-03-07 10:07:41.468405 [TASK]:Failed again -> 0:00:01.994832 total time
+2023-03-07 11:52:57.104603 [TASK]:Began failing on homework again -> 1:45:04.319218 total time
+2023-03-07 11:53:47.765330 [TASK]:Spent a disproportionate amount of time on planning (1:45) -> 0:00:02.729109 total time
+2023-03-07 13:44:39.520718 [TASK]:Going to replace monitor and lamp that I broke in a roid rage -> 1:50:29.817856 total time
+2023-03-07 14:03:44.984776 [TASK]:arrived home (1:00) cleaned up and got back to work at (1:45) -> 0:17:52.110254 total time
+2023-03-07 14:15:05.111930 [TASK]:began studying sections 8.4 and 8.5 to prepare for the homework -> 0:10:53.297126 total time
+2023-03-07 14:20:08.858293 [TASK]:copying problems in markdown -> 0:04:54.117122 total time
+2023-03-07 14:46:44.147895 [TASK]:finshed copying problems, beginning to study chapter 8.4 and 8.5 -> 0:26:14.315008 total time
+2023-03-07 15:47:37.430075 [TASK]:actaully completed example 1 -> 0:00:01.163059 total time
+2023-03-07 16:01:29.247108 [TASK]:continued studying section 8.4 -> 0:13:34.652475 total time
+2023-03-07 17:24:57.217874 [TASK]:Finished HW Question 1 -> 0:00:01.413296 total time
+2023-03-07 17:56:09.821485 [TASK]:Break -> 0:31:04.333150 total time
+2023-03-07 19:55:17.339653 [TASK]:Homework Question 2 -> 1:58:51.078172 total time
+2023-03-07 20:24:27.879114 [TASK]:I spent 2 hours on one problem because you are a piece of shit -> 0:28:49.073781 total time
+2023-03-07 21:33:00.122332 [TASK]:I can't win, I'm going to be homeless and friendless and worhtless and skillless for the rest of my worthless pathetic life -> 1:07:59.966359 total time
+2023-03-07 21:34:31.972232 [TASK]:Finished the problems by cheating on each problem, robbing me of the education value of that I'm paying for, I understand your perspective is that money grows on trees that are fed with semen -> 0:00:02.812990 total time
+
+2023-03-07 22:14:39.872192 [TASK]:but for me, I want to understand and be proficient in mathematics -> 0:39:48.255918 total time
+2023-03-07 22:16:29.877614 [TASK]:typing challenge, see how quick I can copy the quiz questions -> 0:01:29.191427 total time
+2023-03-07 22:42:23.051309 [TASK]:Decided against it to save time -> 0:25:44.179773 total time
+2023-03-07 23:10:21.726116 [TASK]:Question 1 -> 0:27:49.835905 total time
+2023-03-07 23:10:57.690281 [TASK]:Stumbled my way through the question one. -> 0:00:02.652541 total time
